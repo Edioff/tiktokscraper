@@ -1,0 +1,14 @@
+# TikTok Comments Scraper
+# No external dependencies - uses only Python standard library
+#
+# Required:
+# - Python 3.8+
+# - curl (system command)
+#
+# Standard library modules used:
+# - subprocess (curl execution)
+# - json (parsing API responses)
+# - csv (output formatting)
+# - concurrent.futures (parallel processing)
+# - threading (token manager)
+# - pathlib (file handling)
