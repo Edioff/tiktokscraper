@@ -3,10 +3,6 @@
 
 # Cache y resultados
 cache/
-RESULTADOS.json
-RESULTADOS.csv
-*.json
-*.csv
 
 # Python
 __pycache__/
