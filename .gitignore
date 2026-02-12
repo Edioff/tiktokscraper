@@ -1,16 +1,22 @@
-# Credenciales
-.env
-
-# Cache y resultados
-cache/
+# Data output
+*.csv
+*.json
+data/
 
 # Python
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+
+# Environment
+.env
 .venv/
 venv/
 
 # IDE
 .vscode/
 .idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
